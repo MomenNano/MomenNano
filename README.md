@@ -6,7 +6,7 @@
 🧠 focuses on Javascript. Node.js.<br>
 🖥 develops webapps. digital projects. back-end works.<br>
 💪 codes for contributing to life. contributing to the community.<br>
-💙 Sudever
+💙 Sudever. <br>
 🧩 interests in psychology. art. history. literature.<br>
 
 
