@@ -3,7 +3,7 @@
 <h1 align='center'>👋 Hello, I'm Momen</h1><br>
 <p align='center'>
 🏷 known as Nano. backend developer.<br>
-🧠 focuses on Javascript. Node.js.<br>
+🧠 focuses on Javascript. Node.js and Go lang.<br>
 🖥 develops webapps. digital projects. back-end works.<br>
 💪 codes for contributing to life. contributing to the community.<br>
 🧩 interests in psychology. art. history. literature.<br>
